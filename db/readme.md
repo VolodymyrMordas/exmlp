@@ -3,6 +3,8 @@
 **ENTRY** table - contains system entities
 
 **FILES** table - contains temporary information about remote datasource - filesystem, rdbms etc
+
+
   
   
 We have remote datasource. it contains folders and files. External application can connect to 

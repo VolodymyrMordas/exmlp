@@ -1,0 +1,8 @@
+{
+  "dataSource": {
+    "type": "oracledb",
+    "name": "Oracle cloud database"
+  },
+  "alt": "alternative name",
+  "comments": 0
+}
